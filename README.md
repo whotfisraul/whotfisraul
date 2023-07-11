@@ -1,21 +1,17 @@
 
-<img align='left' src='https://i.ibb.co/3f6p5pc/saturn.png' width='20%'>  
-<img align='right' src='https://i.ibb.co/MMjSBsr/ssj.png' width='20%'>  
+# problee
+Java, HTML, PhP, CSS, JS Developer
 
-# whotfisproble
-Owner & Dev [SaturnStudios](https://discord.gg/DWnaKEyNVu), [SSJCrew](https://discord.com/invite/sbW2KYdhMu)
-
-Hello! I am a Raul Diaz or you may know me as whotfisproble...
-Im working in Saturn Studios..
+Hello! I am a Raul or you may know me as problee...
+Im looking for somewhere to work..
 You can contact me via [Twitter](https://twitter.com/problemxatico)
-or in [Saturn Studios Discord](https://discord.gg/DWnaKEyNVu)
 
 <h2 align="center">My own projects</h2>
 <p align="center">You can see a little bit of my projects!</p>
 
-| <a href="https://discord.gg/DWnaKEyNVu" target="_blank">**Saturn Studios**</a> | <a href="https://twitter.com/jademcnet" target="_blank">**JadeMC Network**</a> | <a href="https://twitter.com/dinorushnetwork" target="_blank">**DinoRush Network**</a> | <a href="https://twitter.com/khaoticdevteam" target="_blank">**Khaotic Services**</a> |
+| <a href="https://twitter.com/jademcnet" target="_blank">**JadeMC Network**</a> | <a href="https://twitter.com/dinorushnetwork" target="_blank">**DinoRush Network**</a> | <a href="https://twitter.com/khaoticdevteam" target="_blank">**Khaotic Enterprises**</a> |
 | :---: | :---: | :---: | :---: |
-<img align='center' src='https://i.ibb.co/ZgkX1vm/3az-FUZa-d.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://i.ibb.co/q0sMpDW/JADEMC-ROJO-1.jpg' height='100px'>  | <img align='center' src='https://i.ibb.co/DtCLsxV/1.jpg' width="100px" height='100px'> | <img align='center' src='https://i.ibb.co/Lp6vScZ/kha.png' width="100px" height='100px'> |
+<img align='center' width="100px" src='https://i.ibb.co/q0sMpDW/JADEMC-ROJO-1.jpg' height='100px'>  | <img align='center' src='https://i.ibb.co/DtCLsxV/1.jpg' width="100px" height='100px'> | <img align='center' src='https://i.ibb.co/Lp6vScZ/kha.png' width="100px" height='100px'> |
 | <a href="https://discord.gg/DWnaKEyNVu" target="_blank">`Twitter`</a> | <a href="https://twitter.com/jademcnet" target="_blank">`Twitter`</a> | <a href="https://twitter.com/dinorushnetwork" target="_blank">`Twitter`</a> | <a href="https://twitter.com/khaoticdevteam" target="_blank">`Twitter`</a>
 
 
